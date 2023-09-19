@@ -3,5 +3,6 @@ class pro{
      {
         System.out.println("Hello world");
         System.out.println("my world");
+        System.out.println("integer");
     }
 }
